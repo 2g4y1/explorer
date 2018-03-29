@@ -72,6 +72,8 @@ patch:
   'npm:qs:20140806-1':
     - bitcoin-node-api > express > connect > qs:
         patched: '2018-03-21T14:10:49.753Z'
+    - bitcoin-node-api > express > connect > qs:
+        patched: '2018-03-29T13:46:07.314Z'
   'npm:uglify-js:20150824':
     - jade > transformers > uglify-js:
         patched: '2018-03-21T14:10:49.753Z'
@@ -82,3 +84,7 @@ patch:
         patched: '2018-03-21T14:10:49.753Z'
     - jade > constantinople > uglify-js:
         patched: '2018-03-21T13:58:13.005Z'
+    - jade > transformers > uglify-js:
+        patched: '2018-03-29T13:46:07.314Z'
+    - jade > constantinople > uglify-js:
+        patched: '2018-03-29T13:46:07.314Z'
