@@ -21,7 +21,7 @@
     "request": "2.84.0",
     "jsonminify": "0.2.3",
     "mongodb": "2.2.13",
-    "mongoose": "4.10.2",
+    "mongoose": "4.13.17",
     "markdown-js": "0.0.4",
     "qr-image": "~2.0.0",
     "snyk": "^1.92.6"
