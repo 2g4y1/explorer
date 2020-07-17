@@ -18,7 +18,7 @@
     "debug": "~0.7.4",
     "jade": "~1.8.0",
     "bitcoin-node-api": "0.1.0",
-    "request": "2.84.0",
+    "request": "2.88.0",
     "jsonminify": "0.2.3",
     "mongodb": "2.2.13",
     "mongoose": "4.10.2",
